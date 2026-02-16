@@ -58,10 +58,8 @@ In order to make a secure behaviour a habit, it must be a conscious effort to do
 
 I would immediately log out all of my accounts across all devices. Change my password. I would also report this incident to the appropriate people who will help me handle this case.
 
-<img width="729" height="264" alt="Image" src="https://github.com/user-attachments/assets/c6c67f05-4465-4509-a410-db1bff5597cc" />
 
-<img width="946" height="2049" alt="Image" src="https://github.com/user-attachments/assets/e6656dcd-e066-4aac-9fbf-140ca910aeb5" />
-
-<img width="1264" height="679" alt="Image" src="https://github.com/user-attachments/assets/f090a84f-d137-49e6-adb7-ccd850bf9efc" />
-
-<img width="946" height="2049" alt="Image" src="https://github.com/user-attachments/assets/98d64503-937e-4429-8eb3-6fe078c7dfcf" />
+![2FA](../images/2fa.png)
+![Authenticator](../images/authenticator.png)
+![Device Sleep](../images/sleep.png)
+![Bitwarden](../images/bitwarden.png)

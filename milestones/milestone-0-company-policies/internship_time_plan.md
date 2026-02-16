@@ -194,4 +194,4 @@ Total hours: 40hrs
 
 On weeks 1-3, it will be dedicated for onboarding tasks. It is expected in this week that I will be able to complete these tasks. For the following weeks, it will be based on the assigned tasks that will be given. On the final week, it will be more on the final output to be delivered.
 
-![Focus Bear App In Use](../images/focusbear.jpg)
+![Focus Bear App In Use](../images/focusbear.png)
