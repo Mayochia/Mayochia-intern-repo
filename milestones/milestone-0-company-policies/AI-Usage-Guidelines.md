@@ -2,7 +2,7 @@
 
 ## What AI tools are typically used for your role?
  
-GPT-4 and Claude 3.5 are the AI tools typically used for my role. I use VSCode and these are the models available in it.
+I use Github Copilot. GPT-4 and Claude 3.5 are also some of the AI tools typically used for my role. I use VSCode and these are the models available in it.
 
 ## What are the benefits and risks of using AI in a professional setting?
 
