@@ -59,8 +59,7 @@ In order to make a secure behaviour a habit, it must be a conscious effort to do
 I would immediately log out all of my accounts across all devices. Change my password. I would also report this incident to the appropriate people who will help me handle this case.
 
 
-I do have 2 factor authentication ever since. I also use Authenticator to access accounts. Right now, I am adapting Bitwarden as my password manager.
-
-![2 Factor Authentication](../images/2fa.png)
-![Authenticator](../images/authenticator.jpg)
-![Bitwarden](../images/bitwarden.jpg)
+![2FA](../images/2fa.png)
+![Authenticator](../images/authenticator.png)
+![Device Sleep](../images/sleep.png)
+![Bitwarden](../images/bitwarden.png)
